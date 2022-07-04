@@ -41,7 +41,8 @@ Future<void> main() async {
     // editorOpsLog,
     // editorLayoutLog,
     // editorDocLog,
-    appLog,
+    textFieldLog,
+    // appLog,
   });
 
   runApp(SuperEditorDemoApp());
