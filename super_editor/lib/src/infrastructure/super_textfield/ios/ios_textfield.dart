@@ -272,9 +272,6 @@ class SuperIOSTextFieldState extends State<SuperIOSTextField>
     super.dispose();
   }
 
-  @visibleForTesting
-  ImeAttributedTextEditingController get textController => _textEditingController;
-
   @override
   ProseTextLayout get textLayout => _textContentKey.currentState!.textLayout;
 
