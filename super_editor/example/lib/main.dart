@@ -41,7 +41,7 @@ Future<void> main() async {
     // editorOpsLog,
     // editorLayoutLog,
     // editorDocLog,
-    textFieldLog,
+    // textFieldLog,
     // appLog,
   });
 
